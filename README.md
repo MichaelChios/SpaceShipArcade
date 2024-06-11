@@ -2,6 +2,8 @@
 
 Basic arcade shooting game with different spaceships, audio depending on the current window and shooting/winning/loosing sounds
 
+Use the arrows to move UP/DOWN/LEFT/RIGHT and the SPACE key to shoot
+
 ![spacearcade1](https://github.com/MichaelChios/SpaceShipArcade/assets/93000043/1182df05-cc50-4277-b73e-33a7249b3085)
 
 
